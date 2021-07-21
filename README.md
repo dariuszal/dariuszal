@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Vehicle Register/Search Application.
 - 🌱 I’m currently learning Java.
-- - 📫 How to reach me:darius.zalandauskas@gmail.com
+- 📫 How to reach me:darius.zalandauskas@gmail.com
 - 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariuszal)](https://github.com/anuraghazra/github-readme-stats)
 <!--
