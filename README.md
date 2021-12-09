@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Vehicle Register/Search Application.
+- 🔭 I’m currently working on Web POS Project.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: darius.zalandauskas@gmail.com
  
