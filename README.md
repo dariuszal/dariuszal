@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Web POS Project.
+- 🔭 I’m currently working on Tool Rental Service Full-Stack Project
 - 🌱 Technologies I am learning/working: Java, Spring Boot, Thymeleaf, HTML, CSS, SASS, Bootstrap, MySQL, PostgreSQL
 - 📫 How to reach me: darius.zalandauskas@gmail.com
  
